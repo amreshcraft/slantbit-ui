@@ -22,7 +22,7 @@ export default [
         duration: "1.5 Month",
         format: "Live Online Sessions + Practical Activities + Resources",
         price: "₹1,760",
-        razorpayUrl: "https://razorpay.me/@slantbit",
+        razorpayUrl: "https://rzp.io/rzp/EcaYRe7",
         card: "card2",
     },
 
