@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Slanbit – Learn Live. Grow Together.",
-  description: "Slanbit is a platform that connects learners with mentors, educators, and industry experts through personalized 1:1 sessions, live online cohorts, and interactive learning experiences. Learn directly from experts, join collaborative communities, and grow your skills through real-time guidance.",
+  title: "Slantbit – Learn Live. Grow Together.",
+  description: "Slantbit is a platform that connects learners with mentors, educators, and industry experts through personalized 1:1 sessions, live online cohorts, and interactive learning experiences. Learn directly from experts, join collaborative communities, and grow your skills through real-time guidance.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
